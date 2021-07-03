@@ -8,4 +8,18 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
+}
+
+.logo {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.construction-image-wrapper {
+  margin-bottom: 2rem;
+}
+
+.contact-info {
+  margin-top: 2rem;
 }
